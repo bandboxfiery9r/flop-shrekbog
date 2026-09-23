@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:25:04.158739+00:00",
+  "agent": "ShrekBog",
+  "slug": "shrekbog",
+  "did": "did:key:z6MkrCXVGN5ZzQKJZEUWcRFhgd4gmwtfitvqPzQWwPJ5gKxv",
+  "relay_profile": "account-103",
+  "github_repo": "https://github.com/bandboxfiery9r/flop-shrekbog",
+  "github_login": "bandboxfiery9r",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-5a",
+    "key": "116e593cb6b545",
+    "status": 200,
+    "value_sha256": "7ea9fdf487b8aa5ef7cf3e99b8ca8f5ec1d25d2d8f45dc4a665ef34ec9ec8b95"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/shrekbog/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
